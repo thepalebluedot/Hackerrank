@@ -1,2 +1,2 @@
-# Hackerrank
-My hackerrank solutions. Feel free to contribute. 
+# Personal Projects
+## Hackerrank coding practice challenge
