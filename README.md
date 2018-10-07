@@ -1,2 +1,2 @@
 # Personal Projects
-## Hackerrank coding practice challenge
+### 1. Hackerrank coding practice challenge
